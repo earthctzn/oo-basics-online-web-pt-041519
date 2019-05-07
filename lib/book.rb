@@ -12,4 +12,10 @@ class Book
   def author= (author)
     @author = author
   end
+  
+  def author
+    @author
+  end
+  
+  
 end
