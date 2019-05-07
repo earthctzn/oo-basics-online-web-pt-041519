@@ -25,11 +25,11 @@ class Book
     @page_count
   end
   
-  def author= (author)
-    @author = author
+  def genre= (genre)
+    @genre = genre
   end
   
-  def author
-    @author
+  def genre
+    @genre
   end
 end
